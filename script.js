@@ -45,6 +45,6 @@ function exercicio4 () {
 }
 
 function limpar() {
-  document.getElementById("root").style.display = "none"
-  exercicio4 = document.getElementById("exercicio4").style.display = "none"
+  document.getElementById("root").style.display = "none";
+  exercicio4 = document.getElementById("exercicio4").style.display = "none";
 }
